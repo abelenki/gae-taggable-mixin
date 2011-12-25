@@ -1,0 +1,4 @@
+Taggable provides a Python mixin class that you can add to any class that already inherits from Google AppEngine's db.Model class. Tags are stored efficiently in a separate Model, and any number of Models can use Taggable simultaneously.
+
+This is a fork from http://code.google.com/p/taggable-mixin/
+Credits to Adam Crossland <adam.crossland@gmail.com>

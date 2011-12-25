@@ -3,7 +3,7 @@ import os
 
 version = '0.1'
 
-long_description = open(os.path.join(__file__,'../README')).read()
+long_description = open('./README').read()
 
 
 setup(name='gae_taggable_mixin',

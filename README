@@ -2,3 +2,5 @@ Taggable provides a Python mixin class that you can add to any class that alread
 
 This is a fork from http://code.google.com/p/taggable-mixin/
 Credits to Adam Crossland <adam.crossland@gmail.com>
+Adam Crossland created a GAE MVC framework:  https://code.google.com/p/gae-mvc-engine/
+and blog.adamcrossland.net/asset/show/mvc-engine-docs
